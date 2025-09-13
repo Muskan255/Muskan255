@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect with Me 🌐</h3>
+
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 
@@ -85,6 +85,7 @@
 <p align="center">
   <em>“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson</em>
 </p>
+
 
 
 
