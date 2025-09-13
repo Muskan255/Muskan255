@@ -36,18 +36,24 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
 </p>
 
-<!-- Animations & UI Libraries -->
-<h4 align="center">✨ Animations & UI Libraries</h4>
+<!-- Animations & Creative Coding Libraries -->
+<h4 align="center">✨ Animations & Creative Coding</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/p5.js-ED225D?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matter.js-000000?logo=javascript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SwiperJS-6332F6?logo=swiper&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Locomotive%20Scroll-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LottieFiles-00C2CC?logo=lottiefiles&logoColor=white&style=for-the-badge" />
-  <!-- Added creative coding libs -->
+</p>
+
+<!-- Machine Learning & AI -->
+<h4 align="center">🤖 Machine Learning & AI</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/ml5.js-FD4D5D?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/p5.js-ED225D?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matter.js-000000?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white&style=for-the-badge" />
 </p>
 
 <!-- Backend -->
@@ -59,8 +65,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <!-- Added Python here because it's a backend language -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
 <!-- DevOps & Cloud -->
@@ -69,8 +73,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <!-- Added generic Machine Learning badge here (cloud + AI) -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -78,6 +80,7 @@
 <p align="center">
   <em>“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson</em>
 </p>
+
 
 
 
