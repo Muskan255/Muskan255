@@ -16,9 +16,14 @@
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 
+<h3 align="center">🌐 Connect with Me 🌐</h3>
+
 <p align="center">
   <a href="https://www.instagram.com/gentelless/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-843434323" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
 
@@ -80,6 +85,7 @@
 <p align="center">
   <em>“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson</em>
 </p>
+
 
 
 
