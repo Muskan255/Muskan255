@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I do Art & Tech </h1>
-<h3 align="center">🚀 Full Stack Web Developer | ⚡ Creative coding | 🛠️ game developer | 🤖 Robotis | FastAPI & DevOps Learner 🚀</h3>
+<h3 align="center">🚀 Full Stack Web Developer | ⚡ Creative coding | 🛠️ game developer | 🤖 Robotics | FastAPI & DevOps Learner 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVlYjI1NmI0NTk3NmY2OTczZGIyZjQzNTI3NTg1NjdkMTM4ODUyNyZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="girl coder gif"/>
@@ -78,6 +78,7 @@
 <p align="center">
   <em>“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson</em>
 </p>
+
 
 
 
