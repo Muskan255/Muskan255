@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  ⚡ <strong>Hacker Soul</strong> | 🛠️ <strong>Builder Craft</strong> | 🤖 <strong>AI Architect</strong> <br/>
-  🌐 <strong>Web3 Innovator</strong> | 🚀 <strong>FastAPI & DevOps Learner</strong> <br/>
-  🔥 <strong>Gen Z Fire</strong> | ✨ <strong>Old-School Roots</strong> | 🎭 <strong>Poetic Code</strong> <br/>
-  🏆 <strong>Hackathon Conqueror</strong>
+  ⚡ <strong>Creative Coding </strong> | 🛠️ <strong>Game developer Craft</strong> | 🤖 <strong>Creative learner </strong> <br/>
+  🌐 <strong>Web3 Innovator</strong> | 🚀 <strong>FastAPI & DevOps Learner</strong> <br/> | <strong> Rbotics enthusiast </strong> <br/>
+  🔥 <strong>Gen Z Fire</strong> | ✨ <strong>Learning by doing</strong> | 🎭 <strong>Love coding</strong> <br/>
+  🏆 <strong>Love Electronics </strong>
 </p>
 
 ---
@@ -70,3 +70,4 @@
 <p align="center">
   <em>“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson</em>
 </p>
+
