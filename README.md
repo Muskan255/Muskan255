@@ -7,7 +7,7 @@
 
 <p align="center">
   ⚡ <strong>Creative Coding </strong> | 🛠️ <strong>Game developer Craft</strong> | 🤖 <strong>Creative learner </strong> <br/>
-  🌐 <strong>Web3 Innovator</strong> | 🚀 <strong>FastAPI & DevOps Learner</strong> <br/> | <strong> Rbotics enthusiast </strong> <br/>
+  🌐 <strong>Web3 Innovator</strong> | 🚀 <strong>FastAPI & DevOps Learner</strong> <br/> | <strong> Robotics enthusiast </strong> <br/>
   🔥 <strong>Gen Z Fire</strong> | ✨ <strong>Learning by doing</strong> | 🎭 <strong>Love coding</strong> <br/>
    | <strong>Love Electronics </strong>
 </p>
